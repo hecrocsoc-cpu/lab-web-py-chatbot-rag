@@ -1,0 +1,42 @@
+SISTEMA ELÉCTRICO Y ELECTRÓNICA DE A BORDO
+
+## Baterías
+
+Un barco de vela o motor de eslora media (9-12 metros) suele tener dos bancos de baterías:
+- Batería de arranque: exclusivamente para arrancar el motor. No debe descargarse por debajo del 80%.
+- Banco de servicio: alimenta los consumos del barco (luces, instrumentos, nevera, VHF). Puede descargarse hasta el 50% en baterías de plomo-ácido, o hasta el 20% en baterías de litio (LiFePO4).
+
+Mantenimiento de baterías de plomo-ácido:
+- Comprobar nivel de electrolito y rellenar con agua destilada si es necesario.
+- Limpiar bornes y aplicar vaselina para evitar oxidación.
+- Carga de mantenimiento durante el invierno o periodos sin uso.
+
+Mantenimiento de baterías de litio (LiFePO4):
+- Requieren BMS (Battery Management System). Verificar que funciona correctamente.
+- No necesitan mantenimiento de electrolito. Vida útil de 2000-4000 ciclos.
+- No dejar en carga completa prolongada ni descargar completamente.
+
+## Paneles solares y cargador de baterías
+
+Los paneles solares son la fuente de carga más habitual en veleros. Instalar un regulador MPPT para maximizar la eficiencia. Limpiar los paneles periódicamente (sal y polvo reducen el rendimiento).
+
+El cargador de muelle (shore power charger) debe ser de tipo inteligente con fases de carga (bulk, absorción, flotación).
+
+## VHF y comunicaciones
+
+El VHF de cabina debe revisarse anualmente:
+- Comprobar la antena y el conector (conector PL-259 con posible corrosión).
+- Verificar que el canal 16 funciona correctamente (canal de socorro internacional).
+- El VHF portátil de emergencia debe estar cargado y guardado en lugar accesible.
+
+## Instrumentos de navegación
+
+- GPS/Chartplotter: actualizar cartografía anualmente. Limpiar pantalla con paño suave.
+- Sonda: revisar transductor si hay lecturas erróneas. A veces basta con limpiar el transductor de incrustaciones.
+- Piloto automático: lubricar el actuador lineal según el manual. Verificar los valores de calibración al inicio de temporada.
+
+## Instalación eléctrica general
+
+- Todos los cables deben ser de sección adecuada para la intensidad que soportan. Usar cable marino (tinned copper, doble aislamiento).
+- Los fusibles o disyuntores protegen cada circuito. Revisar que no hay fusibles quemados ni disyuntores que salten repetidamente.
+- Conexiones: usar terminales de crimpado estancos. Evitar conexiones con cinta aislante en zonas húmedas.

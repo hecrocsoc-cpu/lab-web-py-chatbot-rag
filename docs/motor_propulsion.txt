@@ -1,0 +1,29 @@
+MANTENIMIENTO DEL MOTOR Y SISTEMA DE PROPULSIÓN
+
+## Revisión del motor diésel
+
+El motor diésel marino requiere revisión cada 100 horas de navegación o al inicio de cada temporada. Los puntos críticos son:
+
+- Cambio de aceite y filtro de aceite: usar aceite marino SAE 15W-40 o según especificaciones del fabricante.
+- Filtro de combustible: sustituir anualmente o si se detecta pérdida de potencia.
+- Refrigeración por agua de mar: inspeccionar el impeller de la bomba de agua cada 200 horas. Un impeller deteriorado puede causar sobrecalentamiento grave.
+- Correa de alternador: comprobar tensión y estado visual. Sustituir si hay grietas o desgaste.
+- Mangueras de refrigeración: revisar que no haya fugas, endurecimiento o grietas.
+
+## Síntomas comunes y soluciones
+
+Humo negro: exceso de combustible, inyectores sucios o filtro de aire obstruido.
+Humo blanco: agua en el combustible o junta de culata dañada.
+Temperatura elevada: impeller deteriorado, falta de refrigerante o termostato bloqueado.
+Dificultad de arranque en frío: bujías de precalentamiento defectuosas o baterías bajas.
+
+## Hélice y eje
+
+Inspeccionar la hélice al sacar el barco a tierra. Buscar:
+- Daños físicos: golpes, deformaciones, cavitación excesiva.
+- Electrólisis: la hélice debe protegerse con ánodos de zinc.
+- Estanqueidad del prensaestopas o sello mecánico: se permite un goteo lento (1 gota cada 30-60 segundos) en prensaestopas tradicional. Un sello mecánico debe estar completamente estanco.
+
+## Ánodos de zinc
+
+Los ánodos de zinc protegen el metal del casco y la hélice frente a la corrosión galvánica. Se deben sustituir cuando han perdido el 50% de su masa. En aguas cálidas o con alta conductividad (Mediterráneo) se recomienda revisión anual.

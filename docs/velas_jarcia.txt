@@ -1,0 +1,44 @@
+MANTENIMIENTO DE VELAS Y JARCIA
+
+## Velas
+
+Las velas son el motor principal de un velero y representan una inversión importante. Su mantenimiento alarga significativamente su vida útil.
+
+Limpieza:
+- Lavar con agua dulce tras cada salida, especialmente si ha habido salpicaduras de agua salada.
+- Para manchas de moho: solución de agua con jabón suave o productos específicos para velas. Evitar lejía en velas de laminado (carbon o kevlar).
+- Secar completamente antes de guardar o enrollar.
+
+Inspección:
+- Costuras: buscar hilo cortado o deshilachado, especialmente en los puños (esquinas) y las balumas.
+- Tejido: comprobar que no haya rasgados, quemaduras por rozamiento contra el estay o los spreaders.
+- Gratiles y balumas: el parche de las ollaos debe estar firme.
+- Enrolladores: lubricar el eje del enrollador de génova con grasa marina.
+
+Almacenamiento invernal:
+- Guardar en seco, sin luz directa (los rayos UV degradan el poliéster y el dacron).
+- Si se guardan enrolladas, no muy apretadas para no dañar el laminado.
+
+## Jarcia Firme (stays y obenques)
+
+La jarcia firme soporta el palo. Debe inspeccionarse con atención:
+
+- Cables de acero inoxidable: buscar hilos sueltos (coronas). Un solo hilo suelto es motivo de sustitución inmediata.
+- Tensado: usar un tensiómetro o la regla del "toque de nota" (frecuencia de vibración). Los obenques deben estar firmes pero no en exceso.
+- Terminales y guardacabos: revisar posibles grietas en los conos Norseman/Sta-Lok o en los terminales forjados (swaged fittings). Especial atención a la zona de entrada del cable en el terminal, donde suele iniciarse la fatiga.
+- Cadenas y bulones: lubricar y verificar que los pasadores están correctos.
+
+Vida útil recomendada de la jarcia: 10 años o 30.000 millas náuticas, lo que ocurra primero. En navegación oceánica, muchos armadores la sustituyen antes.
+
+## Jarcia de Labor (drizas y escotas)
+
+- Inspeccionar el recorrido completo en busca de rozaduras, abrasiones o nudos endurecidos.
+- Las drizas que pasan por bloques de la cabeza del palo son especialmente susceptibles al desgaste en ese punto.
+- Sustituir si la funda está muy desgastada o si el núcleo de dyneema/kevlar está dañado.
+- Lavar con agua dulce y jabón suave. Secar antes de guardar.
+
+## Palo y botavara
+
+- Revisar las juntas y remaches del palo. Cualquier filtración puede provocar corrosión interior difícil de detectar.
+- Lubricar los poleas, bloques y el virador del enrollador de génova.
+- Comprobar la iluminación de tope del palo (luz de navegación blanca o bicolor).

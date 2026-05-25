@@ -1,0 +1,34 @@
+MANTENIMIENTO DEL CASCO Y OBRA VIVA
+
+## Inspección anual del casco
+
+La obra viva (parte del casco sumergida) debe inspeccionarse y tratarse cada vez que el barco se saca a tierra. El procedimiento habitual es:
+
+1. Presionar a agua para eliminar incrustaciones biológicas (mejillones, algas, bellotas de mar).
+2. Lijar la superficie si hay irregularidades o capas de antifouling antiguas muy acumuladas.
+3. Aplicar pintura antifouling de acuerdo al tipo de navegación y zona geográfica.
+
+## Tipos de antifouling
+
+Autopulimentante (SPC): se disuelve lentamente liberando biocida. Recomendado para barcos que navegan frecuentemente. Eficacia de 12-18 meses.
+Duro o de matriz: no se disuelve, acumula capas. Apto para barcos en seco durante periodos largos o para fondear frecuentemente.
+Sin cobre (libre de biocidas): alternativa ecológica, menor eficacia pero compatible con zonas protegidas.
+
+## Osmosis
+
+La ósmosis es la absorción de agua a través del laminado de fibra de vidrio. Señales:
+- Ampollas en el gelcoat de la obra viva.
+- Olor ácido al abrir las ampollas.
+- Pérdida de rigidez estructural en casos avanzados.
+
+Tratamiento: secar completamente el laminado (proceso largo, 3-6 meses), lijar hasta eliminar ampollas, aplicar imprimación epoxi y antifouling.
+
+## Cubierta y superestructura
+
+- Revisar juntas de escotillas, portillos y pasamuros: son los puntos más frecuentes de entrada de agua.
+- Teca: limpiar con productos específicos. Renovar el caulking (sellador entre tablas) si está agrietado o suelto.
+- Antideslizante: repintar si hay zonas desgastadas para evitar resbalones.
+
+## Orza y quilla
+
+En barcos de quilla de plomo: revisar la unión quilla-casco. Cualquier movimiento, oxidación en los pernos o filtración en esa zona debe tratarse inmediatamente, ya que es un punto estructural crítico.

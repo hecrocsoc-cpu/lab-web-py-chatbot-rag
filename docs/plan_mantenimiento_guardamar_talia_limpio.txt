@@ -1,0 +1,591 @@
+PLAN DE MANTENIMIENTO DEL BUQUE GUARDAMAR TALÍA.
+Nombre y apellidos: Héctor Rodríguez Socorro.
+Ciclo superior en Organización del Mantenimiento de
+Maquinaria de Buques y Embarcaciones 2º Curso.
+Índice.
+● Presentación:..............................................................Páginas 3 y 4.
+● Listado maquinaria:.............................................Páginas de 5 a 12.
+● ALcance del plan y Política de empresa:........................ Página 13.
+● Stock mínimo:....................................................Páginas de 14 a 16.
+● Explicación codificación y Equipos a codificar :...............Página 17.
+● Circuitos a codificar:.........................................................Página 18.
+● Elementos a codificar:.......................................Páginas de 18 a 19.
+● Tareas a codificar:.............................................Páginas de 19 a 20.
+● Explicación cómo rellenar las tablas de mantenimiento:.Página 20.
+● Mantenimiento a realizar diariamente:..............Páginas de 21 a 24.
+● Mantenimiento a realizar cada dos días:.........................Página 25.
+● Mantenimiento a realizar cada 4 días:.............................Página 26.
+● Mantenimiento a realizar semanalmente:.........Páginas de 26 a 27.
+● Mantenimiento a realizar cada dos semanas:.. Páginas de 28 a 29.
+● Mantenimiento a realizar mensualmente:.........Páginas de 30 a 32.
+● Mantenimiento a realizar bimensualmente:.....................Página 33.
+● Mantenimiento a realizar trimestralmente:.......................Página 34.
+● Mantenimiento a realizar semestralmente:.......Páginas de 35 a 37.
+● Mantenimiento a realizar anualmente:....................Página 38 a 40.
+● Mantenimiento a realizar bianualmente:...........Páginas de 41 a 42.
+Presentación.
+El buque Guardamar Talía posee 31.9 metros de eslora, 7 metros de manga, 2.05
+metros  de calado y 1.304 metros de asiento. Se trata de un buque de  La Sociedad
+de Salvamento y Seguridad Marítima que hace las funciones de patrullera rápida en
+aguas canarias. Este tipo de buques se encuentra entre los remolcadores y las
+salvamares, ofertando servicios muy polivalentes. El cuadro orgánico de la
+embarcación se compone de 8 tripulantes, pero está constituida por 6 debido a la
+zona de navegación en la que actúa, esta se compondrá por:
+● Un Capitán.
+● Un 1º Oficial de puente.
+● Un 2º Oficial de puente.
+● 2 marineros de cubierta.
+● Un cocinero.
+● Un Jefe de Máquinas.
+● Un marinero de máquinas, engrasador y alumno en prácticas.
+La embarcación cuenta con:
+● Cuatro camarotes individuales con tres baños, un pañol, un baño, una
+enfermería y una zona de rescatados en la cubierta principal.
+● Una lavandería, dos camarotes individuales, dos camarotes de dos personas,
+un baño y dos aseos en la cubierta de acomodación a proa.
+● Un pañol, una cámara de motores principales, una cámara de motores
+auxiliares y un pañol del servo-timón en la cubierta de acomodación en popa.
+Datos complementarios:
+● Astillero y año de construcción: Astilleros Armon 2009.
+● Buque bajo pabellón Español con registro canario.
+● Tiene 13 tanques ( 4 de agua, 4 de gasoil, 2 de aceite y 3 de residuos
+oleosos ).
+● Velocidad de crucero 15 nudos con autonomía de 1300 millas.
+● 2 motores principales  MTU 4000 M70 12V.
+● 2 generadores Kohler 80 EFOZD.
+● Velocidad máxima de 25,5 nudos.
+● Desplazamiento en rosca: 99.92 Tn.
+● Desplazamiento: 120.85 Tn.
+● Arqueo bruto: 181 GT/TRB.
+● Puntal de construcción: 3.231 metros.
+● Eslora entre perpendiculares: 31 metros.
+● Línea de francobordo de verano: 1.891 metros.
+● Tiro de maquinilla: 20 t.
+Plano de la disposición de elementos en la cámar a de máquinas.
+Plano de tanques de la embarcación.
+Listado de maquinaria.
+1. Motor principal:
+1.1. Número de motores: 2.
+1.2. Marca y modelo: MTU serie 4000 M70 acoplados a dos reductoras ZF.
+1.3. Puesta en marcha eléctrica mediante dos motores de arranque.
+1.4. Motor de cuatro tiempos.
+1.5. 12 cilindros en V.
+1.6. Potencia: 1740 kW a 2000 rpm.
+1.7. Diámetro del pistón 165 mm y carrera de 190 mm.
+1.8. Dos turbos acoplados en secuencia (hasta 1500 rpm actúa un turbo y
+el segundo actúa al sobrepasar esas revoluciones).
+1.9. 4 válvulas dos de admisión y dos de escape.
+2. Motores auxiliares:
+2.1. Marca y modelo: John Deere modelo 6068 TFM75.
+2.2. Alternador modelo y marca: Kohler 80 EFOZD.
+2.3. Alternador modelo y marca: Kohler 80 EFOZD.
+2.4. Número de motores: 2.
+2.5. Motor de 4 tiempos con 6 cilindros en línea.
+2.6. Potencia: 84.7 kW a 1500 rpm.
+2.7. Diámetro de pistón 106.5 mm y una carrera de 127 mm.
+3. Generador de puerto:
+3.1 Marca y modelo: Mosa GE 33 VSK. Con un alternador trifásico
+síncrono, autoexcitado, autorregulado y sin escobillas (casa Linz.
+3.2 Motor acoplado:
+3.2.1.   VM Motori.
+3.2.2. 3 cilindros.
+3.2.3.  Diámetro de pistón 105 mm y carrera de 115 mm.
+3.2.4.  4 tiempos.
+3.2.5.  Refrigerado por aire.
+3.2.6.   Arranque eléctrico.
+3.2.7.   Potencia: 24.7 kW a 1500 rpm.
+4. Reductoras:
+4.1. Marca y modelo: ZF 7550V.
+4.2. Coeficiente reductor: 2.548:1
+4.3. Presión de embrague: 17.5 bares.
+5. Depuradora de combustible:
+5.1. Marca y modelo: Alfa Laval MMB 304.
+5.2. Capacidad para depurar: 3200 l/h.
+5.3.  Velocidad máxima de giro en el rotor: 9510 rpm.
+5.4 Puede actuar como separadora o purificadora.
+6. Grupo potabilizador:
+6.1. De ósmosis inversa.
+6.2. Marca y modelo:  Marnorte BD 40/15.
+6.3 Para condiciones de agua de mar de 22.8º y pH7 con contenido en sal
+35 gr/l produce aproximadamente 2000 litros de agua potable con un
+porcentaje de rechazo de sales de 99.2 %.
+7. Compresor de aire:
+7.1. Marca:  Atlas Copco 7.2. Capacidad: 50l.
+8. Compresor de recarga de equipos autónomos
+de aire respirable.
+9. Transformadores:
+9.1.  Número de transformadores: 2.
+10. Aire acondicionado:
+10.1. Número de aparatos: 2 10.2. Marca: Condaria.
+11. Planta de tratamiento de aguas fecales por
+vacío:
+11.1.Marca y modelo: Hamann supermini
+11.2. Circuito de agua dulce para limpiezas automáticas.
+11.3.Posee una bomba maceradora para la descarga al exterior.
+12.Servo-timón:
+12.1. Hidráulico.
+12.2. Modelo: ST-2X750-CD-P-40-X.
+12.3. Par nominal: 2x750 T.
+12.4. Ángulo de giro a cada banda: 40º.
+12.5. Tiempo de maniobra con 1 bomba:  28 seg BR-ER.
+12.6. Tiempo de maniobra con 2 bombas: 14 seg BR-ER.
+12.7. Compuesto por:
+12.7.1. Unidad de dirección.
+12.7.2. Centrales hidráulicas.
+12.7.3. Gobierno de emergencias y reserva de aceite.
+12.7.4. Unidad indicadora de ángulo.
+12.7.5. Mando de control puente, now follow up.
+12.7.6. Mando de control puente, follow up.
+12.7.7. Cuadros arrancadores.
+12.7.8. Panel control remoto y motorización.
+Alcance del plan:
+Los objetivos del desarrollo de este proyecto son establecer los mantenimientos
+necesarios para una embarcación de aluminio, la cual debido al servicio que realiza
+tiene que estar en condiciones operativas del 100 % durante todo el año.
+Política de empresa:
+La Sociedad de Salvamento y Seguridad Marítima tiene encomendada por Ley la prestación
+de los servicios de búsqueda, rescate y salvamento marítimo, de prevención y lucha contra
+la contaminación del medio marino, de seguimiento y ayuda al tráfico marítimo, de
+seguridad marítima y de la navegación, de remolque y asistencia a buques, así como la de
+aquellos complementarios de los anteriores.
+La Sociedad de Salvamento y Seguridad Marítima, consciente de la trascendencia de sus
+actividades, establece una Política Integrada de Calidad, Medio Ambiente y Seguridad
+con el fin de lograr la excelencia en los servicios prestados y ser un organismo de referencia
+a nivel internacional en el ámbito marítimo.
+Stock mínimo:
+Los fines del mantenimiento es reducir el stock mínimo, pero siempre es necesario
+llevar a bordo una serie de piezas de respeto. Según la clase del buque y su ámbito
+de navegación se clasifican en dos clases las piezas de respeto:
+- Clase A: buques de pasajeros o carga que realizan navegaciones nacionales o
+internacionales y pesqueros de navegación de altura.
+- Clase B: buques de trabajo en puerto o suministros, patrulleras, remolcadores,
+etc., y buques pesqueros pequeños.
+Nosotros nos centraremos en los buques de clase B ya que nuestro buque es una
+patrullera.
+Por cada tipo de motor principal de combustión interna (1):
+Cojinetes de empuje integrados. Para cojinetes en block con sectores (tipo Michell). Para cojinetes de metal blanco (aro en una sola pieza). 1 juego. 1 juego.
+Válvulas.  De escape, completas y listas para instalar (para un cilindro)
+1 juego.
+Válvulas.  De admisión, completas y
+listas para instalar (para un cilindro).
+1 juego.
+Válvulas.  De arranque, completas y
+listas para instalar.
+Válvulas.  De sobrepresión, completas y listas para instalar (para un cilindro).
+Válvulas.  De inyección de combustible, de cada tipo, por cada motor (2). ¼ juego
+Juntas empaquetaduras.  Juntas y empaquetaduras
+especiales, de culata de cilindro o camisa, para un cilindro.
+1 juego.
+1- Cuando haya dos o más motores iguales, los elementos de respeto serán los
+necesarios para un solo motor.
+2- A) en motores con una o dos válvulas por cilindro, un juego completo.
+B) en motores con más de dos válvulas por cilindro, dos válvulas completas por
+cilindro más el correspondiente número de partes, excepto su cuerpo, de forma
+que sea posible rearmarla utilizando partes de las válvulas desmontadas.
+Reductores inversores, líneas de ejes y acoplamientos:
+Cojinetes de empuje.   Zapatas para marcha
+adelante.
+1 juego.
+Compresor de aire:
+Aros de pistón.
+Juego para un cilindro de cada tamaño y tipo. 1. Válvulas aspiración y descarga Completas de cada tipo y tamaño 2.
+Bombas para servicios esenciales (1)
+Bombas a pistón.  Válvula con asiento y
+resorte para cada tipo de bomba. Aro de pistón de cada tipo y tamaño para cada pistón. 1 juego.
+1 juego.
+Bombas centrifugas.   Cojinete de cada tipo y
+tamaño.
+Empaquetadura de rotor de cada tipo y tamaño.
+Bombas tornillo.  Cojinete de cada tipo y
+tamaño.
+Empaquetadura de rotor de cada tipo y tamaño.
+1- Cuando el sistema servido por la bomba posea otra bomba de reserva, no será
+necesario elemento de respeto.
+Otros elementos de maquinaria principal, auxiliar y otros sistemas:
+Mangueras.  20 % Mangueras de presión y tuberías
+flexibles para cada tipo de circuito
+hidráulico.
+20 % Juntas y empaquetaduras para cada tipo de circuito hidráulico. 1 juego.
+1- Siempre y cuando el elemento sea posible cambiarlo a bordo
+Aceites:
+Engrase motores.
+Aceite 15W 40.
+200 L.
+Schottel.   Aceite XP 69.  200 L.
+Embragues motores.  DTE OIL LIGTH.  200 L.
+Reductor motor proa.  Aceite SAE 30.  40 L.
+Sistema hidráulico.  Aceite hidráulico HP 46 .  200 L.
+Explicación de la codificación de
+tareas a realizar de mantenimiento.
+La codificación que se sigue en este manual se divide en:
+Equipos: Dos letras en mayúsculas que nos indicará el nombre del mismo, seguidas
+de un 0 y otro número que nos indicará el equipo específico. Ej: MP01 MP02, motor
+principal 1 y 2.
+Circuitos o sistemas: Dos o tres letras en mayúsculas que harán de abreviación del
+mismo. Ej: SL, sistema de lubricación.
+Elementos: Número 0 acompañado de una o dos letras que harán de abreviación
+del mismo. Ej: 0M, Medidor.
+Tarea a realizar: Dos o tres letras en mayúsculas que harán de abreviación de la misma.
+Ej: LP, ​ Limpieza.
+En el caso de que sea necesario la señalización de un elemento perteneciente a
+otro, pero que este no sea lo suficientemente extenso como para considerarlo
+sistema, se procederá a una combinación de ambos. Ej: MP01AA ​ 0E0T ​ /CE, Entrada
+de la turbo.
+Equipos a codificar:
+1. Motores principales: MP01 y MP02.
+2. Motores auxiliares: MA01 y MA02.
+3. Motor generador de puerto: MG01.
+4. Reductoras: RE01 y RE02.
+5. Planta agua fecales: PF01.
+6. Potabilizadora: PT01.
+7. Depuradora: DP01.
+8. Servo timón: ST01.
+9. Compresor: CM01.
+10. Compresor para recarga de equipos de aire respirables: CA01.
+11. Aire acondicionado: AA01.
+Circuitos subgrupos a codificar:
+1. Sistema general: EG.
+2. Sistema de lubricación: SL.
+3. Admisión de aire: AA.
+4. Sistema de combustible: SC.
+5. Sistema de escape: SE.
+6. Sistema de refrigeración: SR.
+7. Distribución de agua: DA.
+8. Partes móviles: PM.
+9. Sistema de transmisión: ST.
+10. Sistema hidráulico: SH.
+11. Sistemas de lectura de presiones: SP.
+12. Sistemas de lectura de temperaturas. STE.
+13. Sistema eléctrico: SEL.
+14. Sistema de control: SCO 15. Sistema de distribución: SD 16. Sistema de arranque: SA
+Elementos a codificar:
+1. Medidor: 0M.
+2. Equipo o sistema en general: 0G.
+3. Indicador o lector: 0L.
+4. Filtro: 0F.
+5. Bomba: 0B.
+6. Radiador: 0R.
+7. Ventilador:0V.
+8. Entrada: 0E.
+9. Salida: 0S.
+10. Conexiones: 0C.
+11. Correa: 0CO.
+12. Válvula: 0VA.
+13. Racores: 0RA.
+14. Aceite: 0A.
+15. Inyectores: 0I.
+16. Selector: 0SE.
+17. Depósito: 0D.
+18. Presostato: 0P.
+19. Presostato alta: 0PA.
+20. Presostato baja: 0PB.
+21. Uniones: 0U.
+22. Álabes: 0AL.
+23. Escobillas: 0ES.
+24. Turbo: 0T.
+25. Rotor: 0RO.
+26. Batería: 0BT.
+27. Ánodo: 0AN.
+28. Soporte: 0SO.
+29. Embrague: 0EM.
+30. Actuadores: 0AC.
+31. Enfriador: 0EN.
+32. Cámara cilindro: 0CC.
+33. Cigüeñal: 0CI.
+34. Refrigerante: 0RE.
+35. Intercambiador de calor: 0IC.
+36. Puesta a tierra: 0PT.
+37. Eje: 0EJ.
+38. Freno: 0FR.
+39. Pistón: 0PI.
+40. Camisa pistón: 0PC.
+41. Balancín: 0BL.
+42. Intercooler: 0IN.
+43. Culata: 0CT.
+44. Termostato: 0TR.
+45. Bujía: 0BJ.
+46. Cojinete: 0CJ.
+Tareas a codificar:
+1. Comprobar nivel: CN.
+2. Comprobar estado: CE.
+3. Comprobar niveles de residuos o sustancias extrañas a dicho sistema: CNR.
+4. Cambiar o sustituir elemento: CM.
+5. Limpieza: LP.
+6. Acción manual: AM (ver tarea específica).
+7. Purga: PR.
+8. Comprobar presión: CP.
+9. Comprobar temperaturas: CT.
+10. Engrase O lubricación: EN.
+11. Operar motor a 50% - 70% 30 minutos: VM.
+12. Comprobar posición: CPS.
+13. Overhaul: OV.
+Explicación cómo rellenar las tablas de
+mantenimiento.
+En primer lugar se ha de anotar en la parte superior la fecha y nombre completo del
+trabajador que la rellene.
+Cuando la acción a realizar haya sido terminada, se hará un “tick” o “x” en la casilla
+“check1”, en el caso de existir dos dispositivos a revisar se rellenará el “check 2”
+cuando se realice en este último.
+Si procede se apuntarán las horas de funcionamiento de cada dispositivo en la
+casillas “HRS”
+En el caso de tener que anotar datos de varios elementos repetitivos como podrían
+ser temperaturas de gases de escape, se anotarán a mano en el apartado de
+“observaciones”.
+Cualquier incidencia no descrita en al tabla ha de ser anotada en la casilla
+“observaciones” así como las actividades no realizadas y el motivo.
+Mantenimiento a realizar diariamente.
+Dispositivo.  Acción a
+Código.  Check1  Check2  Hrs.
+Motores principales. Comprobar nivel de aceite.
+Motores principales. Comprobar estanqueidad y estado general de forma visual.
+Motores principales. Controlar el sistema de refrigeración de aire de carga.
+Motores principales. Controlar el indicador de mantenimiento del filtro de aire.
+Motores principales. Comprobar los taladros de la bomba de alta presión de combustible.
+Motores principales. Comprobar taladros de descarga de las bombas de agua.
+Motores principales. Ruidos, color de gases y vibraciones anormales.
+Motores principales. Purga del pre filtro combustible
+Motores principales. Comprobar presión pre filtro combustible.
+Motor generador de puerto. Comprobar nivel de aceite del motor.
+Motor generador de puerto. Control de aceite del filtro de aire.
+Motor generador de puerto. Limpieza filtro de aire de aceite.
+Motor generador de puerto. Limpieza filtro de aire seco.
+Motor generador de puerto. Control del radiador del aceite.
+Motor generador de puerto. Limpieza del ventilador.
+Reductoras.  Comprobar nivel de aceite.
+Reductoras.  Girar manualmente el filtro de aceite.
+Reductoras.  Chequeo visual de las partes móviles.
+Bombas de vacío de la planta de aguas fecales. Limpiar entradas de aire.
+Bombas de vacío de la planta de aguas fecales. Comprobar presión en
+Potabilizadora.  Comprobar si baja la presión.
+Depuradora.  Comprobar fugas entrada.
+Depuradora.  Comprobar fugas salida.
+Depuradora.  Comprobar vibraciones y ruidos en el rotor de la separadora.
+Depuradora.  Comprobar vibraciones y ruidos en la correa de transmisión.
+Depuradora.  Comprobar nivel de aceite.
+Depuradora.  Control estado general motor eléctrico.
+Servo timón.  Revisión de conexiones
+circuitos hidráulicos. Servo timón.  Comprobar de niveles de aceite.
+Compresor.  Comprobar nivel de aceite.
+Compresor para recarga de equipos de aire respirables. Comprobar nivel de aceite.
+Compresor para recarga de equipos de aire respirables. Comprobar presiones.
+Compresor para recarga de equipos de aire respirables. Revisar manómetros.
+Aire acondicionado . Comprobar temperaturas.
+Aire acondicionado . Comprobar presiones.
+Observaciones: ​  ANOTAR A MANO TODAS LAS TEMPERATURAS DE GASES DE
+ESCAPES DE CADA CILINDRO DE TODOS LOS MOTORES DE COMBUSTIÓN
+INTERNA ​ .
+Mantenimiento a realizar cada dos días.
+Dispositivo.  Acción a
+Código.  Check 1.  Check 2.  Hrs.
+Motor generador de puerto. Sustitución aceite del motor.
+Motor generador de puerto. Sustitución filtro de aceite.
+Motor generador de puerto. Control de la correa trapezoidal
+Observaciones:
+Mantenimiento a realizar cada cuatro
+días.
+Dispositivo.  Acción a
+Código.  Check 1.  Check 2.  Hrs.
+Motor generador de puerto. Comprobar filtro de la bomba de alimentación refrigerante.
+Observaciones:
+Mantenimiento a realizar semanalmente.
+Dispositivo.  Acción a
+Código.  Check 1.  Check 2.  Hrs.
+Motor generador de puerto. Sustitución de aceite en el filtro de aire.
+Motor generador de puerto. Control correa trapezoidal .
+Planta de aguas fecales. Girar válvula de descarga sedimento s al tanque
+Potabilizadora  Revisión de pérdidas en la bomba de baja presión.
+Servo timón.  Revisar unidades dirección.
+Compresor.  Comproba r filtro de aspiración.
+Compresor.  Engrase.
+Compresor para recarga de equipos de aire respirables. Controlar contador operación.
+Compresor para recarga de equipos de aire respirables. Control de detección de fugas.
+Aire acondicionad o. Detección de fugas.
+Observaciones:
+Mantenimiento a realizar cada dos semanas.
+Dispositivo.  Acción a
+Código.  Check 1. Chec k 2.
+Motores principales. Comprobar conducción de aire entre el filtro y la turbo.
+Motores principales. Residuos de aceite, limpiar filtro y sustituir malla interna.
+Motores auxiliares. Operar motor velocidad nominal 50% -70% de carga min 30’.
+Motores auxiliares. Comprobar el nivel de aceite.
+Motores auxiliares. Comprobar nivel refrigerante del motor.
+Motor generador de puerto. Apriete racores de combustible.
+Motor generador de puerto. Cambio aceite del motor.
+Motor generador de puerto. Cambio filtro de aceite.
+Motor generador de puerto. Cambio filtro combustible.
+Motor generador de puerto. Comprobar inyectores.
+Motor generador de puerto. Comprobar reglaje de válvulas,
+Motor generador de puerto. Cambio filtro de aire seco.
+Reductoras.  Limpiar exteriormente reductora.
+Reductoras.  Comprobar selector de posición avante/atrás.
+Reductoras.  Lubricar partes exteriores.
+Observaciones:
+Mantenimiento a realizar mensualmente.
+Dispositivo.  Acción a
+Código.  Check 1.  Check 2.  Hrs.
+Motores principales. Comprobar holguras válvulas.
+Motores principales. Cambiar filtro combustible.
+Motor generador de puerto. Limpiar depósito combustible
+Motor generador de puerto. Sustituir correa del alternador.
+Planta de aguas fecales. Limpiar depósito.
+Planta de aguas fecales. Limpiar las boyas indicadoras de nivel.
+Planta de aguas fecales. Revisar la bomba de cloritos.
+Bombas de vacío de la planta de aguas fecales. Comprobar escapes de sistema de vacío.
+Bombas de vacío de la planta de aguas fecales. Reajuste presostatos.
+Potabilizado ra. Limpieza filtros discos.
+Potabilizado ra. Comprobar presostato de alta.
+Potabilizado ra. Comprobar presostato de baja.
+Potabilizado ra. Comprobar fugas en el circuito.
+Depuradora.  Revisar tensión correa.
+Depuradora.  Cambiar aceite depósito.
+Servo timón.  Limpieza general del equipo
+Compresor.  Comprobar uniones atornilladas
+Compresor para recarga de equipos de aire respirables. Comprobar uniones eléctricas.
+Compresor para recarga de equipos de aire respirables. Comprobar sentido giro.
+Compresor para recarga de equipos de aire respirables. Sustitución filtro aspiración.
+Compresor para recarga de equipos de aire respirables. Engrase del sistema de alta presión.
+Compresor para recarga de equipos de aire respirables. Comprobar sistema de purga.
+Aire acondiciona do Limpieza general equipo.
+Observaciones:
+Mantenimiento a realizar bimestralmente.
+Dispositivo.  Acción a
+Código.  Che ck 1. Check 2.  Horas de funcionami ento. Motores principales. Limpiar álabes del compresor.
+Motor generador de puerto. Comprobar escobillas motor arranque
+Motor generador de puerto. Comprobar turbocompre sor.
+Reductoras.  Cambio de aceite.
+Reductoras.  Limpiar filtro aceite.
+Potabilizado ra. Flushing al sistema con detergente alcalino.
+PT01EG0G/LP*
+Observaciones: *Limpieza por flushing.
+Mantenimiento a realizar trimestralmente.
+Dispositivo.  Acción a
+Código.  Check 1. Check 2.  Horas de funcionami ento. Motores principales. Cambiar filtro aire.
+MP01AA0F/ CM
+MP02AA0F/ CM
+Potabilizadora.  Cambio de aceite bomba alta.
+PT01SL0A0B /CM
+Depuradora.  Limpiar bastidor.
+DP01EG0G/ LP
+Depuradora.  Limpiar rotor de la separadora.
+DP01ST0RO /LP
+Observaciones:
+Mantenimiento a realizar semestralmente.
+Dispositivo.  Acción a
+Código.  Check 1.  Check 2.  Hrs.
+Motores principales. Comprobar estado alternador.
+Motores auxiliares. Cambiar aceite.
+Motores auxiliares. Cambiar filtro de aceite.
+Motores auxiliares. Comprobar sistema de extinción de fuegos.
+Motores auxiliares. Comprobar estado de baterías.
+Motores auxiliares. Comprobar ánodos de Zinc.
+Motores auxiliares. Comprobar correa.
+Motores auxiliares. Comprobar soportes del motor.
+Motor generador de puerto. Revisión parcial del motor.
+MG01EG0G/CE* Reductoras.  Comprobar acoplamient os flexibles.
+Reductoras.  Comprobar discos de embrague.
+Reductoras.  Control visual de los engranajes.
+Reductoras.  Comprobar bombas de aceite.
+Reductoras.  Comprobar unidad de control (GCU).
+Reductoras.  Comprobar actuadores.
+Reductoras.  Recalibrar manómetro de presión embrague.
+Reductoras.  Limpiar el enfriador de aceite.
+Reductoras.  Comprobar retenes ejes.
+Potabilizadora.  Comprobar retenes de alta y baja.
+Potabilizadora.  Comprobar válvulas.
+Servo timón.  Cambiar aceite.
+Compresor.  Limpiar válvula antirretorno.
+Compresor para recarga de equipos de aire respirables. Cambio válvulas de ajuste de presión.
+Compresor para recarga de equipos de aire respirables. Limpiar filtros.
+Compresor para recarga de equipos de aire respirables. Cambiar filtros.
+Compresor para recarga de equipos de aire respirables. Comprobar válvulas de llenado.
+Aire acondicionado. Cambiar filtros.
+Aire acondicionado. Limpiar serpientes y resto de elementos.
+Observaciones: * Revisión parcial.
+Mantenimiento a realizar anualmente.
+Dispositivo.  Acción a
+Código.  Check 1.  Check 2.  Hrs.
+Motores principales. Cambiar inyectores electrónicos.
+Motores principales. Comprobar cámaras cilindro.
+Motores auxiliares. Cambiar filtro caja cigüeñal.
+Motores auxiliares. Limpiar ventilación caja cigüeñal.
+Motores auxiliares. Comprobar sistema aire.
+Motores auxiliares. Cambiar filtro combustible.
+Motores auxiliares. Comprobar correa.
+Motores auxiliares. Comprobar sistema de refrigeración.
+MA01SR0G/
+Motores auxiliares. Análisis del refrigerante.
+Motores auxiliares. Inspeccionar intercambiad or de calor.
+Motores  Limpiar   MA01SR0IC/LP
+auxiliares.  intercambiad or de calor.
+Motores auxiliares. Comprobar velocidad del motor.
+Motores auxiliares. Comprobar la puesta a tierra del motor.
+Motor generador de puerto. Revisión general del motor.
+MG01EG0G/CE* Reductoras.  Revisión general de la reductora.
+RE01EG0G/CE*
+RE02EG0G/CE*
+Planta de aguas fecales. Revisar internamente bomba maceradora.
+Bombas de vacío de la planta de aguas fecales. Comprobar equipo.
+Potabilizadora.  Comprobar retenes aceite bomba de alta.
+Depuradora.  Comprobar disco centrípeto y tapa de bastidor.
+Depuradora.  Limpiar rotor separadora.
+Depuradora.  Comprobar eje rotor.
+Depuradora.  Limpiar bomba combustible.
+Depuradora.  Revisar freno.
+Depuradora.  Cambiar aceite.
+Depuradora.  Cambiar rodamientos motor eléctrico.
+Servo-timón.  Comprobar monitorizació n panel de control remoto y de alarmas
+Compresor de aire. Cambiar aceite.
+Compresor de aire. Cambiar filtro de aspiración.
+Compresor para recarga de equipos de aire respirables. Cambiar aceite.
+Aire acondicionado. Comprobar carga refrigerante.
+Observaciones: * Revisiones generales.
+Mantenimiento a realizar bienalmente.
+Dispositivo.  Acción a
+Código.  Check 1.  Check 2.  Hrs.
+Motores principales. Cambio filtro sistema purga.
+Motores principales. Overhaul turbo.
+Motores principales. Examinar balancines válvulas.
+Motores principales. Limpiar colector de aire.
+Motores principales. Limpiar intercooler.
+Motores principales. Comprobar estanqueidad.
+Motores principales. Cambiar sensor de alta presión de combustible.
+Motores principales. Comprobar motores de arranque.
+Motores principales. Comprobar soportes motor.
+Motores principales. Comprobar válvula corte aire.
+Motores principales. Comprobar estanqueidad elementos desmontados.
+Motores principales. Comprobar bombas de agua.
+Motores principales.* Comprobar culatas
+Motores principales.* Comprobar cabezas pistón.
+Motores principales.* Comprobar superficie deslizamiento camisas.
+Motores auxiliares. Comprobar presión sistema refrigeración.
+MA01SR0G/ CP
+Motores auxiliares. Comprobar bomba agua mar.
+Motores auxiliares. Comprobar juego válvulas.
+Motores auxiliares. Limpiar sistema enfriamiento.
+Motores auxiliares. Prueba de los termostatos.
+Motores auxiliares. Prueba de las bujías.
+Reductoras.  Revisión general.
+RE01EG0G/CE**
+RE02EG0G/CE**
+Bombas de vacío de la planta de aguas fecales. Sustituir eje.  PF01ST0EJ/CM
+Bombas de vacío de la planta de aguas fecales. Cambio de cojinete.
+Observaciones: * Se realizarán estas tareas aprovechando el desmontaje
+necesario para realizar otras. **Revisión general.
+A los 18 años MTU recomienda:
+- Despiezar el motor completo.
+- Sustituir todas las juntas.
+- Sustituir los segmentos del pistón.
+- Sustituir los cojinetes de biela.
+- Sustituir los cojinetes de cigüeñal.
+- Sustituir las camisas del cilindro.
+- Sustituir los rodamientos de la toma de
+fuerza secundaria.
+- Sustituir la bomba de alta presión de
+combustible.
+- Sustituir el cilindro de accionamiento de las
+chapaletas de aire y de escape.
+- Sustituir la válvula de sobrepresión en el
+sistema de alta presión de combustible.
+- Revisión del alternador.
+- Sustituir las palas del turbocompresor de
+escape.

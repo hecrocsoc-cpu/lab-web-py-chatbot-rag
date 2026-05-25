@@ -1,0 +1,54 @@
+SEGURIDAD Y EQUIPAMIENTO DE EMERGENCIA
+
+## Chalecos salvavidas
+
+Los chalecos salvavidas deben revisarse al inicio de cada temporada:
+- Chalecos hinchables automáticos: comprobar que el cartucho de CO2 no está perforado ni caducado. Revisar la cápsula de activación automática (pastilla soluble). Inflar manualmente para comprobar que no hay fugas.
+- Chalecos de espuma: revisar el estado general y las cintas de sujeción.
+- Arneses de seguridad: inspeccionar mosquetones, cintas y costuras. Los mosquetones deben abrir y cerrar con suavidad. Revisar las líneas de vida del arnés.
+
+Normativa: en aguas españolas, es obligatorio llevar un chaleco por persona a bordo. En navegación oceánica, se recomienda chaleco de 275 N con arnés integrado.
+
+## Balsas salvavidas
+
+La balsa salvavidas debe revisarse (surveyed) cada 1-3 años según el fabricante, en un taller autorizado. Comprobar:
+- Fecha de la última revisión en el contenedor.
+- Estado del contenedor (sin grietas, sin humedad).
+- Correcto estibaje y acceso rápido en caso de emergencia.
+- Cuchillo para cortar la trinca en caso necesario.
+
+## Señales de socorro (pirotecnia)
+
+La pirotecnia tiene fecha de caducidad (normalmente 3 años). Llevar a bordo:
+- Bengalas de mano (mínimo 3)
+- Cohetes con paracaídas (mínimo 3 para navegación de altura)
+- Señal fumígena flotante
+
+La pirotecnia caducada no debe tirarse al mar. Llevarla a un punto de recogida autorizado o al club náutico.
+
+## EPIRB y PLB
+
+El EPIRB (Emergency Position Indicating Radio Beacon) es obligatorio en navegación de altura. Transmite en 406 MHz a los satélites Cospas-Sarsat.
+- Registrar el EPIRB en la base de datos nacional (en España, Salvamento Marítimo).
+- Batería: sustituir según la fecha marcada en el equipo (habitualmente cada 5 años).
+- Prueba de funcionamiento: solo realizar el autotest previsto por el fabricante. NUNCA activar el beacon en modo real sin emergencia real.
+
+El PLB (Personal Locator Beacon) es similar pero de uso personal, no fijo al barco.
+
+## Extintor
+
+Llevar al menos un extintor de polvo ABC o CO2. Revisar la presión del manómetro (zona verde). Caducidad habitual: 5 años. Revisar acceso fácil, especialmente cerca del motor.
+
+## Bomba de achique
+
+Revisar que la bomba eléctrica de achique funciona. Tener también una bomba manual de emergencia. Limpiar el pozo de quilla de suciedad que pueda obstruir la bomba.
+
+## Botiquín
+
+El botiquín debe adaptarse al tipo de navegación. Para travesías de altura incluir:
+- Analgésicos, antiinflamatorios, antieméticos (mareo).
+- Antibióticos de amplio espectro (bajo prescripción médica).
+- Material de curas: vendas, gasas, esparadrapo, tijeras.
+- Manual de medicina a bordo (Guía Médica de Abordo de la OMI o similar).
+
+Revisar caducidades al inicio de cada temporada.
